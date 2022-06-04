@@ -1,7 +1,6 @@
 # Gabriel Alexandre de Souza Braga
 # Versão do python utilizada: 3.6.5 64-bit ('base': conda)
 # Trabalho de particle swarm optimization (PSO) da matéria de IA da UTFPR
-# Professor tioDanis
 
 import random                       # para criar números aleatórios
 import math                         # para usar a função matemáticas para a função objetivo
